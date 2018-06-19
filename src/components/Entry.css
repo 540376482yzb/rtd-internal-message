@@ -1,0 +1,12 @@
+.entry-container {
+	display: flex;
+	flex-direction: row;
+	padding: 10px 0;
+	background-color: white;
+	color: #686868;
+}
+
+.even {
+	background-color: #58b7ff;
+	color: rgba(255, 255, 255, 0.815);
+}

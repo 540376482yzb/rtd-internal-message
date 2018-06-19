@@ -1,0 +1,66 @@
+.report-form {
+	padding: 10px;
+	width: 600px;
+	position: relative;
+}
+.report-form a {
+	position: absolute;
+	top: 10px;
+	right: 15px;
+	cursor: pointer;
+	font-size: 20px;
+	color: #686868;
+}
+
+input,
+textarea {
+	display: block;
+	width: 100%;
+	padding: 10px;
+}
+
+select {
+	padding: 10px;
+}
+
+.form-entry {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	padding: 10px;
+	width: 100%;
+}
+
+.category {
+	justify-content: flex-start;
+}
+
+.report-form label {
+	padding-bottom: 10px;
+	padding-left: 2px;
+	color: #686868;
+}
+
+.no-parts {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	width: 100%;
+	padding: 10px;
+}
+
+input[type="checkbox"] {
+	display: block;
+	width: 20px;
+	height: 20px;
+}
+
+.report-form button {
+	display: block;
+	width: 100%;
+	color: #686868;
+	border: 0;
+	padding: 10px;
+}

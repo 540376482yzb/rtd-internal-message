@@ -1,0 +1,35 @@
+.bus {
+	display: flex;
+	align-items: center;
+	width: 10%;
+	justify-content: center;
+	background-color: inherit;
+}
+.date {
+	display: flex;
+	align-items: center;
+	width: 10%;
+	justify-content: center;
+	background-color: inherit;
+}
+.reason {
+	display: flex;
+	align-items: center;
+	width: 20%;
+	justify-content: center;
+	background-color: inherit;
+}
+.no-part {
+	display: flex;
+	align-items: center;
+	width: 10%;
+	justify-content: center;
+	background-color: inherit;
+}
+.description {
+	display: flex;
+	align-items: center;
+	width: 50%;
+	justify-content: center;
+	background-color: inherit;
+}

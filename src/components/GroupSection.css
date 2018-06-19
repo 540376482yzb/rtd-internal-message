@@ -1,0 +1,21 @@
+.group-section-container {
+	background-color: rgb(100, 100, 100);
+	padding: 30px 10px;
+	padding-bottom: 50px;
+	position: relative;
+	margin-bottom: 100px;
+}
+
+.group-section-title {
+	position: absolute;
+	top: -39px;
+	left: 0;
+	right: 0;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: rgb(100, 100, 100);
+	padding: 10px 10px;
+	color: rgba(255, 255, 255, 0.86);
+	font-weight: bold;
+}
